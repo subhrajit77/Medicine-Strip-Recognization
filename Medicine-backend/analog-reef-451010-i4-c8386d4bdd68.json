@@ -1,0 +1,13 @@
+{
+  "type": "service_account",
+  "project_id": "analog-reef-451010-i4",
+  "private_key_id": "c8386d4bdd6888906e452e14d763fb233e75a2ef",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvQIBADANBgkqhkiG9w0BAQEFAASCBKcwggSjAgEAAoIBAQDIb15NlmMUSaJj\n4O6b1nWFc4A19X+mRclDb8N24h+/Okr3IwhIiCnsJpy2KNzHPgzupL7e7tFyxZWz\nSe7qkOziq5Y+D/CJqD9OIbIw0WSGMsqH9zNXwbMa+mDe1yo8KDszful0TE8g++hC\nbXSsLZG3gy1BAvr/sPi3gd4QEJrd8Yy6wYOAMfDtYjpt9oqphKKjXiaeasViUmsc\ntlkkmF8sZOMhlZjtquN3dscgP6sF0NAT+ouqSzZbDH9KRTInjSwCFha0ipZiGsoG\npewOkhoM2c2NUgDyO2HHiSh4U7uRBgs0WnLysOyZI++JfMz7hutor0jdfl2envQC\n7Hq7GuXxAgMBAAECggEABUnk/dyaPCqOOZ7xhNSlkLIhv6q85cUBIMGl8XDZgBj4\nael3ejx3iLbjGy5cVviE7FYWADliduoOP2cTwgY1beyzn+sZQHSbSQM8GawowB6+\nd9R2uxnOEUfqfu7D+0bfewYeAFbUHq1u7TPIqJNiPSqdqtG6kD0Z7vOjCZ76iyEc\nyUrIuXSFfue0t7YLM3aP5jiUDpLItS6qUPVL0RST+LHWkHCxnjYlIOzqNapy6ahd\n8v4XCYybdr8TbojsDZ1ZjdGkTD7zX8bB9eZXBhCAwHfSPd2iphcrizz97ueEgMku\ntuCwUj3/1iVIAYuu6ZLO3qgCo610eVtZGNf0GNgujQKBgQDwJZHG3pBM81zfvTHw\nuBbOOXvt9+5XgwlEWCO8nLaQRYuYlQI4+HeuFIOskiy4UwnKQGbtpnXnSO+JuADS\nC/F0+ghL8shDmnJgUctYFC5FlZDupkeCjMn0OTsztBOl+8LaCbh0rR2CPqt9l2w/\nWmU3xa4ZY+94KHXKieXTIJ+mlQKBgQDVqq3UD3p9rpBrsMQrk9P/mYTqDhnwtV81\ns6RyW3w+jvDKmbaQH0ddpKxk5Yr18IGTX+ByNhJftcRBnG32QMfq0iNQkMtyds7U\n3WjbWRhkqYilNnu0uxyUnYKrnNd4UYsQ4nokCFA66/o3t493t+W3asRL+2BQolci\ntWHbVjF27QKBgBv5JFv3/PMZvg3J6hFSQEXRaGA16yuCdgfiBHeqAZIYp8QkR1f/\niWFbvmLRvCfUdGV8zwCLzVwdoNl395CAF6Y6odDG/RDy4rPZk0g1QZaVb4Z9FANf\nBv9N01mYdll1VCM10qi0qaVMS4mbo95VV0kB29/VRkXG4MGxAnZvbGlpAoGBAM+Z\nciOklmMfBPtdWHzuuQCTbOzsno+d6dAHpzPlZ6Zww8xV5WfKvFBj+4xc6tNixsMm\nWLEfkGKl/PWyw7SL5LJnUiCpTsL8ZKG2LndQ7b6Aal/7u94yHubW02tijIg+0lup\ncPspiKp3NTqFg0PSzcOUXP1mVIKD+R2kFlxCNvVRAoGAZGTwCV+akvScNMN/6Rpg\nEZvn+ayfRN2wDdLXk5R5ZoVyrERlIB3g6l293AcAUsH/SuOdbZQDuGIp1UfJ4bJk\n/fBzNWDFC1ZWouiGxXir7ZCkEzWwIyv/h1Ley7auWYQXuO4ItByhHQnMHGxFPkYz\nT0Q2PHajNYFO0y9Gsa+hgxk=\n-----END PRIVATE KEY-----\n",
+  "client_email": "medicine-text-extractor@analog-reef-451010-i4.iam.gserviceaccount.com",
+  "client_id": "115846019483256293239",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/medicine-text-extractor%40analog-reef-451010-i4.iam.gserviceaccount.com",
+  "universe_domain": "googleapis.com"
+}
