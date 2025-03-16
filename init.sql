@@ -1,0 +1,8 @@
+CREATE DATABASE medicines;
+USE medicines;
+CREATE TABLE records (
+  id INT AUTO_INCREMENT PRIMARY KEY,
+  medicine VARCHAR(255),
+  expiry VARCHAR(255),
+  timestamp TIMESTAMP DEFAULT CURRENT_TIMESTAMP
+);
